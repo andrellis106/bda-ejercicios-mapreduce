@@ -1,0 +1,4 @@
+cometa	1
+estrella	1
+luna	2
+sol	3
