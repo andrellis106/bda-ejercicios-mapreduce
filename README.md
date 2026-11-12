@@ -7,3 +7,4 @@ Ejercicios resueltos de MapReduce (Hadoop 3.3.6 en Docker).
 |---|---|---|
 | [equipo-1-wordcount](equipo-1-wordcount/SOLUCION.md) | WordCount | KLK = 3 |
 | [equipo-3-agregacion](equipo-3-agregacion/SOLUCION.md) | aggregatewordcount / aggregatewordhist | sol = 3; "1 2" = 2 palabras aparecen 1 vez |
+| [equipo-4-pi](equipo-4-pi/SOLUCION.md) | pi (Monte Carlo) | 200 muestras: 3.12; 20000 muestras: 3.1428 |

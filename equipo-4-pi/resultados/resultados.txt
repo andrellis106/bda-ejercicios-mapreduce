@@ -1,0 +1,11 @@
+== Prueba 1: 2 tareas Map x 100 muestras (200 en total) ==
+Number of Maps  = 2
+Samples per Map = 100
+Job Finished in 1.99 seconds
+Estimated value of Pi is 3.12000000000000000000
+
+== Prueba 2: 2 tareas Map x 10000 muestras (20000 en total) ==
+Number of Maps  = 2
+Samples per Map = 10000
+Job Finished in 1.799 seconds
+Estimated value of Pi is 3.14280000000000000000
